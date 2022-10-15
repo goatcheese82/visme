@@ -29,7 +29,7 @@ url: "goatcheese82.github.io/visme" # the base hostname & protocol for your site
 github_username:  goatcheese82
 
 # Build settings
-theme: minima
+theme: cayman
 plugins:
   - jekyll-feed
 
